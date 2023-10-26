@@ -65,7 +65,7 @@ import spinel.common as common
 
 
 
-DEFAULT_BAUDRATE = 115200
+DEFAULT_BAUDRATE = 38400
 IPV6_ADDR_LEN    = 16
 
 # Platform type constants
